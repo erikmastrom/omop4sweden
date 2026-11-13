@@ -1,1 +1,1 @@
-export const env={"PUBLIC_POSTHOG_PROJECT_TOKEN":"","PUBLIC_POSTHOG_HOST":""}
+export const env={"PUBLIC_POSTHOG_PROJECT_TOKEN":"phc_oomAhX8huNXNvnjX2rPooohFqkgyDgrKeDczaeA48RzU","PUBLIC_POSTHOG_HOST":"https://eu.i.posthog.com"}
